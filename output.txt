@@ -1,0 +1,4 @@
+a.out
+makefile
+mysh.c
+output.txt
