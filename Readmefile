@@ -1,0 +1,21 @@
+Name: Sushma Hanumanthu
+Binghamton E-mail: shanuma1@binghamton.edu
+
+Course: Operating Systems
+
+
+
+
+Description:
+ Creates a read-only char device from the devps file.By removing the module_get/put calls, allowing the module to be removed while the file is still open.
+ 
+Understood how to do makefile
+
+Progress:
+
+Declared  global and static function prototypes 
+
+Function prototypes 
+Device_open :Registering the device with the system
+Device_release : Unregistering everything in reverse order
+Device_read : takes data from the kernel device to user process
